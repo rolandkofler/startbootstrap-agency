@@ -152,7 +152,8 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #fed136;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -234,6 +235,7 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  height: 100vh !important;
   text-align: center;
   color: white;
 }
