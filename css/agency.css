@@ -198,6 +198,11 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #fec503;
 }
+@media (max-width: 365px) {
+  #claim {
+    display: none;
+  }
+}
 @media (min-width: 768px) {
   .navbar-custom {
     background-color: transparent;
