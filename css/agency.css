@@ -205,7 +205,7 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #fec503;
 }
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   #claim {
     display: none;
   }
